@@ -1,7 +1,7 @@
 ## - 👋 Hello world 
 ## 😎 @Joedefelipe aqui...
 ## 🎓Formando de Ciência da computação.
-## Estudante Front-end e back-end sim -> fulstack.
+## Estudante Front-end e back-end sim -> fullstack.
 ## Atualmente também estudo sobre React e React native.
 ## Um grande admirador de Data Science.
 
